@@ -10,7 +10,7 @@ var minusFlag = false;
 
 var counterValue = function(e){
 
-
+//startprogram
     if( e.keyCode == 189){
         if(minusFlag == false){
             counter++;
